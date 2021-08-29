@@ -1,0 +1,132 @@
+{
+       "app_bar": {
+		"title": "Welcome to the home page"
+	},
+     "drawarlist":{
+        "homepage": "Home page",
+         "depart": "Departments",
+         "aboutapp": "About Program",
+         "setting": "Settings",
+         "signup": "Sign Out",
+         "change_language": "Change Language"
+    },
+    "internet_state": {
+        "state1": "check the state of the internet connection",
+        "state_ok": "There is an internet connection",
+        "state2": "No internet connection"
+    },
+    "log_in": {
+        "showsignin": "Login",
+        "showsignup": "Create Account",
+        "showsignin2": "If you have an account you can ",
+        "showsignup2": "If you don't have an account you can ",
+        "forgin": "Forgot your password?",
+        "gmail": "Register via Gmail",
+        "facebook": "Register with Facebook",
+        "inemail": "Email",
+        "inpass": "Password",
+        "inpass2": "Password again",
+        "inuser": "Username"
+    },
+    "validInput": {
+         "username":"be username",
+         "email":"be the email",
+         "emailstyle":"must be in the form examp@gmail.com",
+         "password":"be the password",
+         "confirmpassword":"The password does not match",
+         "dont": "could not",
+         "empty": "empty",
+         "morethan": "greater than",
+         "lessthan": "less than",
+         "letters": "letters"
+     },
+ 
+    "home": {
+        "title": "Devices Maintenance",
+        "department": "Departments",
+         "laptop": "Laptop",
+         "desktoop":"Desktop",
+         "screens": "Screens",
+         "hard": "HDD",
+         "tablet": "iPad",
+         "modem": "Modem"
+    },
+      "catdevice": {
+        "Laptop":"المحمول",
+        "Desktop":"المكتبي",
+        "Screens":"الشاشات",
+        "HDD":"الهارد",
+        "iPad":"الاي باد",
+        "Modem":"المودم"
+    },
+    "statessearch": {
+         "Add": "اضافة",
+         "Run":"جاري",
+         "Ready": "جاهز",
+         "Send": "تم",
+         "جاري":"Run",
+         "جاهز": "Ready",
+         "تم": "Send"
+    },
+    "states": {
+         "add": "Add",
+         "pross":"Run",
+         "comp": "Ready",
+         "drevi": "Send",
+         "modefy": "Edit",
+         "delet": "Delet",
+         "clear": "Clear"
+    },
+    "adddevice": {
+        "namecus": "Name Customer",
+        "entername":"Enter the name of the customer",
+        "enternumber":"Enter the customer's phone number",
+        "numbercus":"Customer Number",
+        "problemdata":"Problem Description",
+        "enterproblem": "Enter a description of the problem",
+        "cost":"Maintenance Cost",
+        "entercost":"Enter the cost of maintenance",
+        "catdevice":"Category Device:",
+        "typedevice":"Type Device:",
+        "statedevice":"Status Device:",
+        "daterecive": "Date of Receipt",
+        "datesent":"Date of Delivery",
+        "deviceaccessories":"Device Accessories: ",
+        "noany": "No Found",
+        "yesany":"Found",
+        "battery":"Battery",
+        "charger":"Charger",
+        "packsack":"Packsack"
+    },
+    "validdevice": {
+        "namecus":"Name of the customer",
+        "describtion":"Be a description ",
+        "cost":"Be the price",
+        "password":"Be the password",
+        "phone":"The phone number contains numbers only and begins with (7)"
+    },
+    "button": {
+        "cancel": "Cancel",
+        "change_language": "Change Language"
+    },
+    "language": {
+        "name": {
+            "en": "English",
+            "es": "Spanish",
+            "fa": "Persian",
+            "ar": "Arabic"
+        },
+        "selected_message": "Currently selected language is {language}",
+        "selection": {
+            "message": "Please select a language from the list",
+            "title": "Language Selection"
+        }
+    },
+    "plural": {
+        "demo": {
+            "0": "Please start pushing the 'plus' button.",
+            "1": "You have pushed the button one time.",
+            "else": "You have pushed the button {{value}} times."
+        }
+    }
+}
